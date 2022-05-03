@@ -1,5 +1,5 @@
 # Dice
 
-- Aplicativo que roda dois dados de forma aleatória ao clicar no botão;
-- Criado com Swift storyboard;
-- Otimizado para iPhone 13 Pro;
+- Simple app that rolls two dices randomly when the button is clicked;
+- Created using Swift Storyboard;
+- Optimized for iPhone 13 Pro;
