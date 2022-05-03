@@ -1,4 +1,4 @@
-# Dice
+# Dice App
 
 - Simple app that rolls two dices randomly when the button is clicked;
 - Created using Swift Storyboard;
